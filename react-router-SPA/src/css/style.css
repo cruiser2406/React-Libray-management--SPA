@@ -1,0 +1,23 @@
+table{
+ 
+   
+  
+    margin-left:50px;
+    padding: 0.5%;
+    margin-top: 5%;
+}
+
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+nav{
+    text-align: center;
+}
+#add{
+    margin-left: 20%;
+}
+#lib{
+    text-align: center;
+}

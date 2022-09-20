@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "Name": "hunger games",
+      "description": "Whether your dream is escaping the rat race, experiencing high-end world travel",
+      "genre": "science fiction"
+      
+    },
+    {
+        "id": 2,
+        "Name": "ink heart",
+        "description": "This shocking and provocative question is at the core of the remarkable and inspiring book, One Last Talk: Why Your Truth Matters And How To Deliver It. ",
+        "genre": "drama"
+        
+      },
+      {
+        "id": 3,
+        "Name": "blade runner",
+        "description": "In this book, McKernan goes beyond the event, and dives into what it means to discover your truth and speak it",
+        "genre": "fiction"
+        
+      },
+      {
+        "id": 4,
+        "Name": "gone girl",
+        "description": "Ben Horowitz, co-founder of Andreessen Horowitz and one of Silicon Valley’s most respected ",
+        "genre": "thirller"
+        
+      }
+  ]
